@@ -32,6 +32,7 @@ const CONFIG: &[ConfigEntry] = &[
     (KeyCode::Char('g'), data!("geen-grote-blij")),
     (KeyCode::Char('b'), data!("grote-blij")),
     (KeyCode::Char('p'), data!("puree")),
+    (KeyCode::Char('w'), data!("windy")),
 ];
 
 fn main() -> color_eyre::Result<()> {
