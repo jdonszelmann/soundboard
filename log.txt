@@ -1,0 +1,6 @@
+mouse event 7 0
+rect Rect { x: 1, y: 2, width: 38, height: 2 }
+mouse event 6 0
+rect Rect { x: 1, y: 2, width: 38, height: 2 }
+mouse event 5 0
+rect Rect { x: 1, y: 2, width: 38, height: 2 }
